@@ -820,7 +820,7 @@
 // const original = {
 //     name: 'John',
 //     age: 30,
-//     hobbies: ['reading', 'gaming']
+//     hobbies: ['readi ng', 'gaming']
 // };
 
 // const shallowCopy = Object.assign({}, original); // Using Object.assign()
